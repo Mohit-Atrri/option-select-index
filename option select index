@@ -1,0 +1,7 @@
+$( "#addon-4412-edge-dye-color-4").each(function() {
+ //   var ss = ($('option:selected',this).index()); 
+ 
+$(this).prop('selectedIndex', 1);
+//   alert(ss);
+
+});
